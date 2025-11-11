@@ -39,4 +39,11 @@
 {4,"_$Session$_.ExternalDataProcessorConnectError",17},
 {4,"_$Session$_.ExternalDataProcessorConnect",18},
 {4,"_$InfoBase$_.DBConfigUpdateError",19},
-{5,f881e8f0-5e85-45b7-b17e-9d8909244237,"",8}
+{5,f881e8f0-5e85-45b7-b17e-9d8909244237,"",8},
+{2,"DESKTOP-UIV98DQ",2},
+{13,2,1},
+{5,f33a5f5f-3772-48df-aced-724d60599c59,"Документ.Продажа",9},
+{5,c264fb4c-a9f8-40b5-87d5-d9f979d04e71,"Документ.Оплата",10},
+{5,596905e7-9b8d-4a7a-8a46-f6e93ac87f63,"Документ.Зарплата",11},
+{5,f5629c5d-8701-49d1-8563-bc13b7b2d435,"РегистрСведений.ПроцентыПоЗарплате",12},
+{4,"_$Transaction$_.Rollback",20}
